@@ -3,23 +3,16 @@
 </p>
 
 
-<h1 align="center">Hey there! I'm Pedro Medina <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+<h1 align="center">Hola, soy Adrian Perez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Pedro Medina -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp; Sobre mi
 
-I'm a TSU in Computer Science, recently graduated from the Jesús Obrero University Institute (IUJO) 🎓. I love web programming, I have knowledge of both front-end and back-end development. I love learning and creating something new, creative and productive. I love coffee ☕ and cold 🥶.
+Soy un estudiante de ingenieria en telecomunicaciones con especialidad en sistemas📡. Me gusta programar a su debido tiempo y estoy interesado en saber más y
+más cada vez que pueda y se de la oportunidad🤓
 
-- 🌱 I’m currently learning ...
-    -TypeScript
-    -Node.js
-    -Tailwind CSS
-- 👯 I’m looking forward to collaborate on open source projects.
-- 💡 I like to explore new technologies and learn new things.
-- 💬 Ask me anything, I'll be happy to help you if I can or we can talk.
-- 🕹In my free time I like to play video games and watch movies.
-- 📫 Reach out to me at: medinamacho27@gmail.com
+
 
 <h2 align="left" >My Skills Include</h2>
 
