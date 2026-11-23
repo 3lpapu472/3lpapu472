@@ -61,6 +61,6 @@ más cada vez que pueda y se de la oportunidad🤓
 
 -----
 
-Credit: [MedinaPedroDev](https://github.com/MedinaPedroDev)
+Credit: [MedinaPedroDev](https://github.com/3lpapu472)
 
-Last Edited on: 03/03/2025
+Last Edited on: 21/11/2026
